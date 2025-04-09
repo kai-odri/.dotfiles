@@ -1,0 +1,6 @@
+yt-dlp_config	$HOME/.config/yt-dlp/config
+bash_bashrc	$HOME/.bashrc
+xorg_Xdefaults $HOME/.Xdefaults
+newsboat_urls	$HOME/.config/newsboat/urls
+newsboat_config	$HOME/.config/newsboat/config
+xorg_xinitrc $HOME/.xinitrc

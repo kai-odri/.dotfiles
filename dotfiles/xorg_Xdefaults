@@ -1,0 +1,35 @@
+XTerm*Background: black
+XTerm*Foreground: white
+XTerm*Font: "Gohu GohuFont"
+XTerm*SaveLines: 4000
+XTerm*rightScrollBar: true
+XTerm*ScrollBar: true
+XTerm*scrollTtyOutput: false
+XTerm*selectToClipboard:true
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
+XTerm*locale: true
+XTerm*VT100.Translations: #override \
+      Shift Ctrl<Key>V: insert-selection(CLIPBOARD) \n\
+      Shift Ctrl<Key>V: insert-selection(PRIMARY) \n\
+      Shift<Btn1Down>: select-start() \n\
+      Shift<Btn1Motion>: select-extend() \n\
+      Shift<Btn1Up>: select-end(CLIPBOARD) \n\
+
+
+UXTerm*Background: black
+UXTerm*Foreground: white
+UXTerm*SaveLines: 4000
+UXTerm*rightScrollBar: true
+UXTerm*ScrollBar: true
+UXTerm*scrollTtyOutput: false
+UXTerm*selectToClipboard:true
+UXTerm.vt100.backarrowKey: false
+UXTerm.ttyModes: erase ^?
+UXTerm*VT100.Translations: #override \
+      Shift Ctrl<Key>V: insert-selection(CLIPBOARD) \n\
+      Shift Ctrl<Key>V: insert-selection(PRIMARY) \n\
+      Shift<Btn1Down>: select-start() \n\
+      Shift<Btn1Motion>: select-extend() \n\
+      Shift<Btn1Up>: select-end(CLIPBOARD) \n\
+

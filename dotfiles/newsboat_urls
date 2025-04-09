@@ -1,0 +1,25 @@
+"query:YouTube:tags # \"YouTube\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux" "Youtube"                              #gobletu
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "Linux" "YouTube"                              #chris titus
+https://www.youtube.com/feeds/videos.xml?channel_id=UCS97tchJDq17Qms3cux8wcA "Linux" "YouTube"                              #chris at machine
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Linux" "YouTube"                              #Mental Outlaw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Linux" "YouTube"                              #Wolf Gang
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3VDCeZYZH7mCihtMVHqppw "Hardware" "Youtube"                           #Matt Brown
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3S8vxwRfqLBdIhgRlDRVzw "Hardware" "Youtube"                           #Stack Smashing
+https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q "Security" "Youtube"                           #13Cubed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw "Security" "Youtube"                           #John Hammond
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMqXCTXulFWHrmd2588IqJw "Security" "Youtube"                           #crow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCciB0llbeGYFZTnP4N5whwA "Career" "Youtube"                           #Tech with Jono
+
+"query:Reddit:tags # \"Reddit\""
+https://www.reddit.com/r/bash.rss "Reddit" "linux bash"
+https://www.reddit.com/r/vim.rss "Reddit" "linux"
+
+"query:Blogs:tags # \"Blog\""
+https://www.archlinux.org/feeds/news/ "Blog" "linux"
+https://opensource.com/taxonomy/term/6803/feed "Blog" "linux"
+https://www.chrisatmachine.com/rss.xml "Blog" "linux"
+https://www.howtogeek.com/feed/ "Blog" "howtogeek"
+https://www.topbug.net/blog/category/unix-variants/gnu-linux/feed/ "Blog" "linux"
+http://lukesmith.xyz/rss.xml "Blog" "linux"
+

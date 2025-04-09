@@ -1,0 +1,5 @@
+--ignore-errors
+# --no-playlist
+-o ~/data/videos/%(title)s.%(ext)s
+--downloader aria2c 
+--downloader-args '-c -j 3 -x 3 -s 3 -k 1M'
