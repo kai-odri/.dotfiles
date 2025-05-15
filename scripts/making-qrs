@@ -1,0 +1,1 @@
+echo "http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/" | qrencode -o /tmp/qr && feh /tmp/qr && rm /tmp/qr

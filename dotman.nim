@@ -69,7 +69,7 @@ when isMainModule:
   let pairs = readManifest()
 
   case args[0]
-  of "deploy":
+  of "deploy" or "yeet":
     deployFiles(pairs)
   of "retrieve":
     retrieveFiles(pairs)

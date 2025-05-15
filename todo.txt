@@ -1,0 +1,3 @@
+make dns dispatcher script actually work
+make dotman into a master program for all aspects porting my personalized system
+add other dotfiles ive made as well as neovim configs
