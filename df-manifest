@@ -1,8 +1,20 @@
+[VIDEOS]
 yt-dlp_config	$HOME/.config/yt-dlp/config
+mpv_config $HOME/.config/mpv/mpv.conf
+[BASH]
 bash_bashrc	$HOME/.bashrc
 bash_bashprofile $HOME/.bash_profile
+[X]
 xorg_Xdefaults $HOME/.Xdefaults
+xorg_xinitrc $HOME/.xinitrc
+[I3]
+i3_config $HOME/.config/i3/config
+[NEWSBOAT]
 newsboat_urls	$HOME/.config/newsboat/urls
 newsboat_config	$HOME/.config/newsboat/config
-xorg_xinitrc $HOME/.xinitrc
+[NVIM]
+neovim_mappings $HOME/.config/nvim/lua/mappings.lua
+neovim_lspconfig $HOME/.config/nvim/lua/configs/lspconfig.lua
+neovim_plugins $HOME/.config/nvim/lua/configs/plguins/init.lua
+
 
