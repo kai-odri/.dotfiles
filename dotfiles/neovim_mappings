@@ -1,0 +1,19 @@
+require "nvchad.mappings"
+
+-- add yours here
+
+local map = vim.keymap.set
+
+map("n", ";", ":", { desc = "CMD enter command mode" })
+map("i", "jk", "<ESC>")
+
+local diagnostics_active = true
+vim.keymap.set('n', '<leader>,', function()
+  diagnostics_active = not diagnostics_active
+  if diagnostics_active then
+    vim.diagnostic.show()
+  else
+    vim.diagnostic.hide()
+  end
+end)
+-- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")

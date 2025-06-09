@@ -1,3 +1,7 @@
+"query: Important:tags # \"Important\""
+"query:YoutubeTechnical:tags # \"Youtube\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6Q8NDGqQ2eJ7QXX693ikdw "Programming" "Youtube"                        #Dr Jonas Birch
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw "Security" "Youtube"                           #John Hammond
 "query:YouTube:tags # \"YouTube\""
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux" "Youtube"                              #gobletu
 https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "Linux" "YouTube"                              #chris titus
@@ -7,9 +11,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Li
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3VDCeZYZH7mCihtMVHqppw "Hardware" "Youtube"                           #Matt Brown
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3S8vxwRfqLBdIhgRlDRVzw "Hardware" "Youtube"                           #Stack Smashing
 https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q "Security" "Youtube"                           #13Cubed
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw "Security" "Youtube"                           #John Hammond
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMqXCTXulFWHrmd2588IqJw "Security" "Youtube"                           #crow
-https://www.youtube.com/feeds/videos.xml?channel_id=UCciB0llbeGYFZTnP4N5whwA "Career" "Youtube"                           #Tech with Jono
+https://www.youtube.com/feeds/videos.xml?channel_id=UCciB0llbeGYFZTnP4N5whwA "Career" "Youtube"                             #Tech with Jono
 
 "query:Reddit:tags # \"Reddit\""
 https://www.reddit.com/r/bash.rss "Reddit" "linux bash"
@@ -23,3 +26,13 @@ https://www.howtogeek.com/feed/ "Blog" "howtogeek"
 https://www.topbug.net/blog/category/unix-variants/gnu-linux/feed/ "Blog" "linux"
 http://lukesmith.xyz/rss.xml "Blog" "linux"
 
+
+"query:ActuallyGoodShit:tags # \"TechArticles\""
+https://www.phoronix.com/rss.php "Tech News" "Hardware"           #Phoronix
+https://hackaday.com/feed/ "Hacker News"                          #HackADay
+
+
+
+"query:Forums:tags # \"Tech Forums\"
+https://forums.raptorcs.com/index.php?action=.xml;type=rss        #RaptorCS
+https://news.ycombinator.com/rss                                  #HackerNews

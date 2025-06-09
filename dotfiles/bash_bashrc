@@ -12,4 +12,5 @@ export EDITOR='nvim'
 export MANPAGER=' nvim +Man!'
 set -o vi
 
-export PATH=$PATH:$HOME/scripts/
+export PATH=$PATH:$HOME/dotman/scripts
+export PATH=/home/kai/.nimble/bin:$PATH
